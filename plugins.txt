@@ -1,0 +1,9 @@
+envinject 1.92.1
+git-client 1.19.0
+git 2.4.0
+gradle 1.24
+http_request 1.8.8
+postbuildscript 0.17
+scm-api 0.2
+token-macro 1.10
+xcode-plugin 1.4.8
